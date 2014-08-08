@@ -7,3 +7,5 @@ standard-app-packages
 insecure
 bootstrap
 coffeescript
+iron-router
+spin
